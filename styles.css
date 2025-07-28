@@ -170,3 +170,9 @@ section,
 .author {
     align-self: flex-end;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
